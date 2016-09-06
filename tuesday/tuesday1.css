@@ -1,0 +1,8 @@
+div {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: blue;
+    left: 0px;
+    top: 0px;
+}
