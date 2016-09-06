@@ -1,0 +1,12 @@
+#outerbox {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#innerbox {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+
+}
