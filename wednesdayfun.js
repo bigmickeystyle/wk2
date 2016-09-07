@@ -4,7 +4,7 @@ var doublenum;
 num = 780;
 function timestwo(number) {
   return number * 2;
-};
+}
 
 doublenum = timestwo(num);
 
