@@ -6,7 +6,7 @@ function timestwo(number) {
   return number * 2;
 };
 
-var doublenum = timestwo(num);
+doublenum = timestwo(num);
 
 var numbers;
 
@@ -19,4 +19,6 @@ for (var i = 0; i < numbers.length; i++){
 numbers = {};
 
 numbers.num = doublenum;
+
+thanks byeeeeee
 
